@@ -11,8 +11,8 @@ sample images:
 
 ### Run
 install requirements:
-`pip install -r requirements`
-Open jupyter notebook "image_classification_road_sign.ipynb" and run all cells.
+`pip install -r requirements.txt`
+Open jupyter notebook "dog_image_classification.ipynb" and run all cells.
 
 ### Adjust
 If you want to create model  for different image dataset, replace images in data_image/images folder.
